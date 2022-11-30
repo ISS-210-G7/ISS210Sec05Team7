@@ -7,5 +7,5 @@ This is where you should drop citations for all the images, links, articles, etc
 
 **Joseph Williams**
 
-*New to coding in general*]
+*New to coding in general*
 
