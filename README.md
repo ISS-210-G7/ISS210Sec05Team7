@@ -9,3 +9,6 @@ This is where you should drop citations for all the images, links, articles, etc
 
 *New to coding in general*
 
+**Arsh Wasnik**
+
+*github lmfaoooo*
